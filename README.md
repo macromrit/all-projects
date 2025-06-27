@@ -2,7 +2,7 @@
 
 Welcome! I'm Amrit, a developer passionate about building intelligent systems, social platforms, and AI-powered tools that solve real-world problems. This repository showcases my selected works from hackathons, personal explorations, and production-grade builds.
 
-👨‍💻 15+ Projects  
+👨‍💻 10+ Projects  
 🏆 4x Hackathon Winner  
 🎯 Focus: AI · Full Stack · Social Impact · Dev Tools  
 
