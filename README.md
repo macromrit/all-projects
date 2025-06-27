@@ -1,4 +1,4 @@
-# 🚀 Amrit Subramanian's Project Portfolio
+# Amrit Subramanian's Project Portfolio
 
 Welcome! I'm Amrit, a developer passionate about building intelligent systems, social platforms, and AI-powered tools that solve real-world problems. This repository showcases my selected works from hackathons, personal explorations, and production-grade builds.
 
@@ -41,9 +41,9 @@ Air Flick is a system that allows users to transfer images between two devices u
 
 ---
 
-### 5. [Convoy](https://huggingface.co/Macromrit/SmolLM2-135M-GRPO-Trained-For-Reasoning) – *Realtime Agentic Video Conferencing Platform*
-Built an AI video conferencing platform that simplifies meetings by generating summaries and key takeaways. For this GRPO trained a Small Language Model to reason like DeepSeek using GSM8K Dataset.
-[HuggingFace Repo](https://huggingface.co/Macromrit/SmolLM2-135M-GRPO-Trained-For-Reasoning)
+### 5. [Centrium](https://github.com/macromrit/Centrium) – *End-to-End Secure File Gateway*
+Centrium is a secure file encryption platform that combines AES-256 encryption with Merkle Tree-based integrity verification. When a file is uploaded, it is split into chunks, each encrypted individually, and then hashed to construct a Merkle Tree. The resulting root hash acts as a unique fingerprint of the file's encrypted state. During decryption, the system verifies this root to detect any tampering — even a single byte change is flagged. This ensures both data confidentiality and tamper-proof integrity, making Merkrypt ideal for secure transmission, backups, and forensic-sensitive data storage.
+[Github Repo](https://github.com/macromrit/Centrium)
 
 ---
 
@@ -54,23 +54,38 @@ A lightweight Next.js application to create, store, and share prompts for large 
 
 ---
 
-### 7. [Gyankart](https://github.com/macromrit/Gyankart) – *Personalized Course Recommendation System*
+### 7. [Convoy](https://huggingface.co/Macromrit/SmolLM2-135M-GRPO-Trained-For-Reasoning) – *Realtime Agentic Video Conferencing Platform*
+Built an AI video conferencing platform that simplifies meetings by generating summaries and key takeaways. For this GRPO trained a Small Language Model to reason like DeepSeek using GSM8K Dataset.
+[HuggingFace Repo](https://huggingface.co/Macromrit/SmolLM2-135M-GRPO-Trained-For-Reasoning)
 
+---
+
+### 8. [Gyankart](https://github.com/macromrit/Gyankart) – *Personalized Course Recommendation System*
+Gyankart is a smart course discovery platform that generates personalized learning paths based on what users want to become. Whether you're aiming to be a data scientist, UX designer, or blockchain developer, Gyankart curates and recommends the best learning resources pulled live from multiple high-quality sources.
 [Github Repo](https://github.com/macromrit/Gyankart)
 
 ---
 
-### 8. [Promptopia](https://github.com/macromrit/Promptopia) – *Data Transmission Paradigm*
-A lightweight Next.js application to create, store, and share prompts for large language models (LLMs). Inspired by the idea of a centralized prompt library, PromptHub helps developers and researchers manage their growing list of prompts in one place.
-[Github Repo](https://github.com/macromrit/Promptopia)
-[Live Demo](https://promptopia-iota-bay.vercel.app)
+### 9. [Multi-Agentic Auto-tool Picker & Executor](https://github.com/macromrit/tool-selector) – *Multi Agent Automation*
+A structured, modular math problem solver built using BAML and langgraph. This system takes a natural language math query and breaks it down into smaller solvable steps, choosing the appropriate tool (Add, Subtract, Multiply, Divide), executing the operations in sequence, and returning the final result. If the system encounters an unsupported instruction, it gracefully falls back to a MISSING tool.
+[Github Repo](https://github.com/macromrit/tool-selector)
 
+---
+
+### 10. [Weather MCP Server](https://github.com/macromrit/tool-selector) – *Tool Executor and Context Provider*
+This is a minimal FastMCP server that serves as a weather alert provider. It allows MCP clients and LLM agents to query real-time weather alerts for U.S. states using the National Weather Service API.
+[Github Repo](https://github.com/macromrit/tool-selector)
+
+---
+
+### Check out more projects in my GitHub repo! I'm also currently working on releasing an open-source software (OSS) project soon.
+---
 
 ## 📎 Resume & Links
 
-- 📄 [Resume](https://your-resume-link.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/amritsubramanian)
-- 💼 [GitHub](https://github.com/amritsubramanian)
+- 📄 [Resume] (https://drive.google.com/file/d/1irmRws2xtFJriWEHWmKIeDyKTswKLtmA/view?usp=sharing)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/macromrit)
+- 💼 [GitHub](https://github.com/macromrit)
 - 📬 amritsubramanian.c@gmail.com
 
 ---
