@@ -93,7 +93,7 @@ This is a minimal FastMCP server that serves as a weather alert provider. It all
 
 ## 📎 Resume & Links
 
-- 📄 [Resume](https://drive.google.com/file/d/1irmRws2xtFJriWEHWmKIeDyKTswKLtmA/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1abF7Y0yANFEeEVDWlVX9tNklVT41bx_S/view?usp=sharing)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/macromrit)
 - 💼 [GitHub](https://github.com/macromrit)
 - 📬 amritsubramanian.c@gmail.com
