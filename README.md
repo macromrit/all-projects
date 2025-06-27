@@ -6,7 +6,7 @@ Welcome! I'm Amrit, a developer passionate about building intelligent systems, s
 🏆 4x Hackathon Winner  
 🎯 Focus: AI · Full Stack · Social Impact · Dev Tools  
 
-> This repo is a **read-only portfolio** — each project is briefly described with tech stack, links to GitHub repos, and demos where available.
+> This repo is a **read-only portfolio** — each project is briefly described with links to GitHub repos, and demos where available.
 
 ---
 
