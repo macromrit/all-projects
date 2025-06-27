@@ -39,6 +39,33 @@ Air Flick is a system that allows users to transfer images between two devices u
 [Github Repo](https://github.com/macromrit/Air-Flick)
 [Demo Video](https://www.youtube.com/shorts/4BMhGjixC2U)
 
+---
+
+### 5. [Convoy](https://huggingface.co/Macromrit/SmolLM2-135M-GRPO-Trained-For-Reasoning) – *Realtime Agentic Video Conferencing Platform*
+Built an AI video conferencing platform that simplifies meetings by generating summaries and key takeaways. For this GRPO trained a Small Language Model to reason like DeepSeek using GSM8K Dataset.
+[HuggingFace Repo](https://huggingface.co/Macromrit/SmolLM2-135M-GRPO-Trained-For-Reasoning)
+
+---
+
+### 6. [Promptopia](https://github.com/macromrit/Promptopia) – *Prompt Sharing Hub*
+A lightweight Next.js application to create, store, and share prompts for large language models (LLMs). Inspired by the idea of a centralized prompt library, PromptHub helps developers and researchers manage their growing list of prompts in one place.
+[Github Repo](https://github.com/macromrit/Promptopia)
+[Live Demo](https://promptopia-iota-bay.vercel.app)
+
+---
+
+### 7. [Gyankart](https://github.com/macromrit/Gyankart) – *Personalized Course Recommendation System*
+
+[Github Repo](https://github.com/macromrit/Gyankart)
+
+---
+
+### 8. [Promptopia](https://github.com/macromrit/Promptopia) – *Data Transmission Paradigm*
+A lightweight Next.js application to create, store, and share prompts for large language models (LLMs). Inspired by the idea of a centralized prompt library, PromptHub helps developers and researchers manage their growing list of prompts in one place.
+[Github Repo](https://github.com/macromrit/Promptopia)
+[Live Demo](https://promptopia-iota-bay.vercel.app)
+
+
 ## 📎 Resume & Links
 
 - 📄 [Resume](https://your-resume-link.com)
